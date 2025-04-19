@@ -96,10 +96,6 @@ python ingest_data.py
 uvicorn api:app --reload
 ```
 
-The API is now live at http://127.0.0.1:8000
-
-Test it at http://127.0.0.1:8000/docs
-
 ### 6. Launch Gradio app
 
 In another terminal:
@@ -129,17 +125,9 @@ python app.py
 - Gradio
 - dotenv
 
----
 
-## ✍️ Author
-
-- Name: [Your Name]
-- Course: AIDI 2001 – AI Project Development
-- College: [Your College Name]
-
----
 
 ## 📃 License
 
 This project is for academic and demo purposes.
-```
+
